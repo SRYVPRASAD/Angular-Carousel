@@ -1,0 +1,19 @@
+.title {
+  margin-top: 0%;
+  padding: auto;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background: rgb(210, 210, 215);
+  background: linear-gradient(
+    90deg,
+    rgba(210, 210, 215, 1) 0%,
+    rgba(196, 162, 189, 1) 15%,
+    rgba(233, 0, 175, 1) 47%,
+    rgba(213, 91, 91, 1) 100%,
+    rgba(18, 121, 9, 0.45011600928074247) 100%
+  );
+  text-align: center;
+  color: #f4f4f4;
+  font-weight: 400;
+}
